@@ -14,6 +14,7 @@ class MaxProductOfThreeNumbers {
 
     }
 
+    // O(N) Single scan solution
     private static int maximumProduct(int[] nums) {
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = Integer.MIN_VALUE;
         int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;

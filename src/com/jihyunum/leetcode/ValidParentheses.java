@@ -19,6 +19,7 @@ class ValidParentheses {
 
     }
 
+    // O(N) Stack solution
     private static boolean isValid(String s) {
         Map<Character, Character> matchingPairs = new HashMap<>();
         matchingPairs.put(')', '(');

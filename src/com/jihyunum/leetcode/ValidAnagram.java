@@ -18,7 +18,7 @@ class ValidAnagram {
     }
 
     // O(NlogN) Sort solution
-    private static boolean isAnagram_WithSort(String s, String t) {
+    private static boolean isAnagramWithSort(String s, String t) {
         char[] sArr = s.toCharArray();
         char[] tArr = t.toCharArray();
 
