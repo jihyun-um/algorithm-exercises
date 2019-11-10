@@ -1,5 +1,7 @@
 package com.jihyunum.leetcode;
 
+import com.jihyunum.leetcode.datastructure.ListNode;
+
 // [Problem] https://leetcode.com/problems/odd-even-linked-list/
 class OddEvenLinkedList {
 
@@ -7,33 +9,13 @@ class OddEvenLinkedList {
     public static void main(String[] args) {
 
         // Input: 1->2->3->4->5->NULL
-        ListNode head = new ListNode(1);
-        ListNode node = head;
-        for (int i = 2; i <= 5; i++) {
-            ListNode nextNode = new ListNode(i);
-            node.next = nextNode;
-            node = nextNode;
-        }
+        ListNode head = ListNode.initFiveNodes();
         System.out.println(head);
 
         // Output: 1->3->5->2->4->NULL
         ListNode output = oddEvenList(head);
         System.out.println(output);
 
-    }
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-        @Override
-        public String toString() {
-            return val + " -> " + next;
-        }
     }
 
     // O(N) time, O(1) space solution

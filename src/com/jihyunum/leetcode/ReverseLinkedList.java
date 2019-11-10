@@ -1,5 +1,7 @@
 package com.jihyunum.leetcode;
 
+import com.jihyunum.leetcode.datastructure.ListNode;
+
 // [Problem] https://leetcode.com/problems/reverse-linked-list/
 class ReverseLinkedList {
 
@@ -7,33 +9,13 @@ class ReverseLinkedList {
     public static void main(String[] args) {
 
         // Input: 1->2->3->4->5->NULL
-        ListNode head = new ListNode(1);
-        ListNode node = head;
-        for (int i = 2; i <= 5; i++) {
-            ListNode nextNode = new ListNode(i);
-            node.next = nextNode;
-            node = nextNode;
-        }
+        ListNode head = ListNode.initFiveNodes();
         System.out.println(head);
 
         // Output: 5->4->3->2->1->NULL
         ListNode outputNode = reverseList(head);
         System.out.println(outputNode);
 
-    }
-
-    private static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-        @Override
-        public String toString() {
-            return val + " -> " + next;
-        }
     }
 
     // O(N) Iterative solution
