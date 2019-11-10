@@ -13,13 +13,12 @@ public class ListNode {
         return val + " -> " + next;
     }
 
-    // Return 1->2->3->4->5->NULL
+    // Return 1 -> 2 -> 3 -> 4 -> 5 -> NULL
     public static ListNode initFiveNodes() {
         ListNode head = new ListNode(1), node = head;
         for (int i = 2; i <= 5; i++) {
-            ListNode nextNode = new ListNode(i);
-            node.next = nextNode;
-            node = nextNode;
+            node.next = new ListNode(i);
+            node = node.next;
         }
         return head;
     }
