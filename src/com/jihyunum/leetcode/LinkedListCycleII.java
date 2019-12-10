@@ -24,6 +24,7 @@ class LinkedListCycleII {
 
     }
 
+    // Floyd's Tortoise and Hare solution - O(N) time, O(1) space
     private ListNode detectCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
