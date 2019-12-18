@@ -38,4 +38,9 @@ public class TreeNode {
         }
         System.out.println(node.val);
     }
+
+    @Override
+    public String toString() {
+        return "TreeNode(" + val + ")";
+    }
 }
