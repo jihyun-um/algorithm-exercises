@@ -18,13 +18,9 @@ class BinaryTreeInorderTraversal {
 
     private void addValueInorder(TreeNode node, List<Integer> values) {
         if (node != null) {
-            if (node.left != null) {
-                addValueInorder(node.left, values);
-            }
+            addValueInorder(node.left, values);
             values.add(node.val);
-            if (node.right != null) {
-                addValueInorder(node.right, values);
-            }
+            addValueInorder(node.right, values);
         }
     }
 
