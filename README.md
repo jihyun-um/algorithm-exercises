@@ -1,5 +1,5 @@
-# algorithm-exercise
+# Algorithm Exercises
 
 - Algorithm and Data Structure exercises implemented in Java 11
-- Strarting with problems from [leetcode](https://leetcode.com/)
+- Using problems from [leetcode](https://leetcode.com/) and [algospot](https://www.algospot.com/) (Korean problems)
 - Tests are simplified for convenience
