@@ -11,6 +11,9 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 ### Binary Search
 - Convert Sorted Array To BST: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java Solution](./src/com/jihyunum/leetcode/solutions/ConvertSortedArrayToBST.java)
 
+### Two Pointers
+- Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence) | [JavaScript Solution](./src/javascript/solutions/isSubsequence.js)
+
 ### HashTable
 - Two Sum: [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](./src/com/jihyunum/leetcode/solutions/TwoSum.java) | [JavaScript Solution](./src/javascript/solutions/twoSum.js)
 
