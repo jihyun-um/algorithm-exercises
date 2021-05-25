@@ -13,6 +13,7 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 
 ### Two Pointers
 - Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence) | [JavaScript Solution](./src/javascript/solutions/isSubsequence.js)
+- Squares of a Sorted Array: [Problem](https://leetcode.com/problems/squares-of-a-sorted-array) | [JavaScript Solution](./src/javascript/solutions/sortedSquares.js)
 
 ### HashTable
 - Two Sum: [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](./src/com/jihyunum/leetcode/solutions/TwoSum.java) | [JavaScript Solution](./src/javascript/solutions/twoSum.js)
