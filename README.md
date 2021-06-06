@@ -6,6 +6,7 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 ### Recursion
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](./src/com/jihyunum/leetcode/solutions/BinaryTreeInorderTraversal.java)
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](./src/javascript/solutions/findClosestValueInBst.js)
+- Path Sum | [Problem](https://leetcode.com/problems/path-sum/) | [JS Solution](./src/javascript/solutions/pathSum.js)
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](./src/com/jihyunum/leetcode/solutions/SubtreeOfAnotherTree.java)
 - Climbing Stairs | [Problem](https://leetcode.com/problems/climbing-stairs) | [Java Solution](./src/com/jihyunum/leetcode/solutions/ClimbingStairs.java)
 
