@@ -1,15 +1,8 @@
 // Problem: https://leetcode.com/problems/path-sum
 
-// Definition for a binary tree node.
-class TreeNode {
-  constructor(val, left = null, right = null) {
-    this.val = val;
-    this.left = left;
-    this.right = right;
-  }
-}
+const { TreeNode } = require('../datastructure/treeNode');
 
-// recursion solution - O(n) time, O(n) space
+// DFS solution - O(n) time, O(n) space
 const hasPathSum = (root, targetSum) => {
   if (!root) {
     return false;

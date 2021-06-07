@@ -1,6 +1,6 @@
-const { isEqual } = require('../utils/helpers');
-
 // Problem: https://leetcode.com/problems/two-sum
+
+const { isEqual } = require('../utils/helpers');
 
 // map solution - O(N) time, O(n) space
 const twoSum = (nums, target) => {
