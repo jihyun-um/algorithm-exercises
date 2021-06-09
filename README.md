@@ -12,7 +12,8 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 - Convert Sorted Array To BST | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java Solution](./src/com/jihyunum/leetcode/solutions/ConvertSortedArrayToBST.java)
 
 ## DFS
-- Path Sum | [Problem](https://leetcode.com/problems/path-sum/) | [JS Solution](./src/javascript/solutions/pathSum.js)
+- Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](./src/javascript/solutions/pathSum.js)
+- Path Sum II | [Problem](https://leetcode.com/problems/path-sum-ii) | [JS Solution](./src/javascript/solutions/pathSum2.js)
 
 ## BFS
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](./src/com/jihyunum/leetcode/solutions/BinaryTreeInorderTraversal.java)
