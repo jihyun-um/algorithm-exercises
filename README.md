@@ -3,6 +3,9 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 
 ## Solutions
 
+### Array
+- Concatenation of Array | [Problem](https://leetcode.com/problems/concatenation-of-array) | [Java Solution](src/javacode/solutions/ConcatenationOfArray.java)
+
 ### Recursion
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](src/javascript/solutions/findClosestValueInBst.js)
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](src/javacode/solutions/SubtreeOfAnotherTree.java)
