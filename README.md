@@ -5,6 +5,7 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 
 ### Array
 - Concatenation of Array | [Problem](https://leetcode.com/problems/concatenation-of-array) | [Java Solution](src/javacode/solutions/ConcatenationOfArray.java)
+- Running Sum of Array | [Problem](https://leetcode.com/problems/running-sum-of-1d-array) | [Java Solution](src/javacode/solutions/RunningSumOfArray.java)
 
 ### Recursion
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](src/javascript/solutions/findClosestValueInBst.js)
