@@ -28,6 +28,7 @@ Algorithm exercises from [leetcode](https://leetcode.com/) implemented in Java (
 
 ### HashTable
 - Two Sum | [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](src/javacode/solutions/TwoSum.java) | [JS Solution](src/javascript/solutions/twoSum.js)
+- Number of Good Pairs | [Problem](https://leetcode.com/problems/number-of-good-pairs) | [Java Solution](src/javacode/solutions/NumberOfGoodPairs.java)
 
 ### Stack
 - Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
