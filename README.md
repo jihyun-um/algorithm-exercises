@@ -3,6 +3,9 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ## Solutions
 
+### String
+- Sorting Sentence | [Problem](https://leetcode.com/problems/sorting-the-sentence) | [Java Solution](src/javacode/solutions/SortingSentence.java)
+
 ### Array
 - Concatenation of Array | [Problem](https://leetcode.com/problems/concatenation-of-array) | [Java Solution](src/javacode/solutions/ConcatenationOfArray.java)
 - Running Sum of Array | [Problem](https://leetcode.com/problems/running-sum-of-1d-array) | [Java Solution](src/javacode/solutions/RunningSumOfArray.java)
