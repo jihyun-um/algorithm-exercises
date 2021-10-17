@@ -32,6 +32,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](src/javascript/solutions/findClosestValueInBst.js)
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](src/javacode/solutions/SubtreeOfAnotherTree.java)
 - Climbing Stairs | [Problem](https://leetcode.com/problems/climbing-stairs) | [Java Solution](src/javacode/solutions/ClimbingStairs.java)
+- All Possible Full Binary Trees | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees) | [Java Solution](src/javacode/solutions/AllPossibleFullBinaryTrees.java)
 
 ### Binary Search
 - Convert Sorted Array To BST | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java Solution](src/javacode/solutions/ConvertSortedArrayToBST.java)
