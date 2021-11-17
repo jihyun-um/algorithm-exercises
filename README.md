@@ -5,6 +5,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### String
 - Sorting Sentence | [Problem](https://leetcode.com/problems/sorting-the-sentence) | [Java Solution](src/javacode/solutions/SortingSentence.java)
+- Reverse Words in a String III | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java Solution](src/javacode/solutions/ReverseWordsInStringIII.java)
 
 ### Array
 - Concatenation of Array | [Problem](https://leetcode.com/problems/concatenation-of-array) | [Java Solution](src/javacode/solutions/ConcatenationOfArray.java)
