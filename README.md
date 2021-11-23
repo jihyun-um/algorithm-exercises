@@ -45,6 +45,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 ### DFS
 - Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
 - Path Sum II | [Problem](https://leetcode.com/problems/path-sum-ii) | [JS Solution](src/javascript/solutions/pathSum2.js)
+- Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/path-sum-ii) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
 
 ### BFS
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
