@@ -56,3 +56,6 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Squares of a Sorted Array | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array) | [JS Solution](src/javascript/solutions/sortedSquares.js)
 - Sort Array By Parity | [Problem](https://leetcode.com/problems/sort-array-by-parity) | [Java Solution](src/javacode/solutions/SortArrayByParity.java)
 - Minimize Maximum Pair Sum | [Problem](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Java Solution](src/javacode/solutions/MinimizeMaximumPairSum.java)
+
+### Dynamic Programming
+- Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
