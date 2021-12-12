@@ -58,5 +58,10 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Sort Array By Parity | [Problem](https://leetcode.com/problems/sort-array-by-parity) | [Java Solution](src/javacode/solutions/SortArrayByParity.java)
 - Minimize Maximum Pair Sum | [Problem](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Java Solution](src/javacode/solutions/MinimizeMaximumPairSum.java)
 
+### Bit Manipulation
+- Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
+- Subsets | [Problem](https://leetcode.com/problems/subsets) | [Java Solution](src/javacode/solutions/Subsets.java)
+- Hamming Distance | [Problem](https://leetcode.com/problems/hamming-distance) | [Java Solution](src/javacode/solutions/HammingDistance.java)
+
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
