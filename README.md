@@ -10,6 +10,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 ### Array
 - Jewels and Stones | [Problem](https://leetcode.com/problems/jewels-and-stones) | [Java Solution](src/javacode/solutions/JewelsAndStones.java)
 - Concatenation of Array | [Problem](https://leetcode.com/problems/concatenation-of-array) | [Java Solution](src/javacode/solutions/ConcatenationOfArray.java)
+- Find Target Indices After Sorting Array | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Java Solution](src/javacode/solutions/FindTargetIndices.java)
 - Running Sum of Array | [Problem](https://leetcode.com/problems/running-sum-of-1d-array) | [Java Solution](src/javacode/solutions/RunningSumOfArray.java)
 - Parking System | [Problem](https://leetcode.com/problems/design-parking-system) | [Java Solution](src/javacode/solutions/ParkingSystem.java)
 
