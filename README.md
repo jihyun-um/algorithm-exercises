@@ -14,6 +14,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Find Target Indices After Sorting Array | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Java Solution](src/javacode/solutions/FindTargetIndices.java)
 - Running Sum of Array | [Problem](https://leetcode.com/problems/running-sum-of-1d-array) | [Java Solution](src/javacode/solutions/RunningSumOfArray.java)
 - Parking System | [Problem](https://leetcode.com/problems/design-parking-system) | [Java Solution](src/javacode/solutions/ParkingSystem.java)
+- Cells with Odd Values in a Matrix | [Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java Solution](src/javacode/solutions/OddCellsInMatrix.java)
 
 ### HashTable
 - Two Sum | [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](src/javacode/solutions/TwoSum.java) | [JS Solution](src/javascript/solutions/twoSum.js)
