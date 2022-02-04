@@ -18,6 +18,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### HashTable
 - Two Sum | [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](src/javacode/solutions/TwoSum.java) | [JS Solution](src/javascript/solutions/twoSum.js)
+- Destination City | [Problem](https://leetcode.com/problems/destination-city) | [Java Solution](src/javacode/solutions/DestinationCity.java)
 - Number of Good Pairs | [Problem](https://leetcode.com/problems/number-of-good-pairs) | [Java Solution](src/javacode/solutions/NumberOfGoodPairs.java)
 - Logger Rate Limiter | [Problem](https://leetcode.com/problems/logger-rate-limiter) | [Java Solution](src/javacode/solutions/Logger.java)
 
