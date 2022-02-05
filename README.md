@@ -66,6 +66,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
 - Subsets | [Problem](https://leetcode.com/problems/subsets) | [Java Solution](src/javacode/solutions/Subsets.java)
 - Hamming Distance | [Problem](https://leetcode.com/problems/hamming-distance) | [Java Solution](src/javacode/solutions/HammingDistance.java)
+- Counting Bits | [Problem](https://leetcode.com/problems/counting-bits) | [Java Solution](src/javacode/solutions/CountingBits.java)
 
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
