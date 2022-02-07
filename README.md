@@ -46,6 +46,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### Binary Search
 - Convert Sorted Array To BST | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java Solution](src/javacode/solutions/ConvertSortedArrayToBST.java)
+- Peak Index in a Mountain Array | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Java Solution](src/javacode/solutions/PeakIndexInMountainArray.java)
 
 ### DFS
 - Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
