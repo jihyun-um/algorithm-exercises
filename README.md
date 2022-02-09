@@ -23,11 +23,12 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Logger Rate Limiter | [Problem](https://leetcode.com/problems/logger-rate-limiter) | [Java Solution](src/javacode/solutions/Logger.java)
 
 ### Stack
-- Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
-- Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
+- Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
+- Remove All Adjacent Duplicates In String | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java Solution](src/javacode/solutions/RemoveDuplicatesInString.java)
+- Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
 
 ### Queue
-- Queue Using Stacks | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java Solution](src/javacode/solutions/QueueUsingStacks.java)
+- Queue Using Stacks | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Java Solution](src/javacode/solutions/QueueUsingStacks.java)
 
 ### Heap
 - Top Kth Frequent Elements | [Problem](https://leetcode.com/problems/top-k-frequent-elements) | [Java Solution](src/javacode/solutions/TopKthFrequentElements.java)
