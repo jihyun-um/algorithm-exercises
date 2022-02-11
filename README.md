@@ -14,6 +14,9 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Find Target Indices After Sorting Array | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Java Solution](src/javacode/solutions/FindTargetIndices.java)
 - Running Sum of Array | [Problem](https://leetcode.com/problems/running-sum-of-1d-array) | [Java Solution](src/javacode/solutions/RunningSumOfArray.java)
 - Parking System | [Problem](https://leetcode.com/problems/design-parking-system) | [Java Solution](src/javacode/solutions/ParkingSystem.java)
+
+### Matrix
+- Max Increase to Keep City Skyline | [Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Java Solution](src/javacode/solutions/MaxIncreaseToKeepCitySkyline.java)
 - Cells with Odd Values in a Matrix | [Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java Solution](src/javacode/solutions/OddCellsInMatrix.java)
 
 ### HashTable
