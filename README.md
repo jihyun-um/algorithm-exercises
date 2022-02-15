@@ -62,6 +62,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
 
 ### Two Pointers
+- Valid Palindrome | [Problem](https://leetcode.com/problems/valid-palindrome) | [Java Solution](src/javacode/solutions/ValidPalindrome.java)
 - Is Subsequence | [Problem](https://leetcode.com/problems/is-subsequence) | [JS Solution](src/javascript/solutions/isSubsequence.js)
 - Squares of a Sorted Array | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array) | [JS Solution](src/javascript/solutions/sortedSquares.js)
 - Sort Array By Parity | [Problem](https://leetcode.com/problems/sort-array-by-parity) | [Java Solution](src/javacode/solutions/SortArrayByParity.java)
