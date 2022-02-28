@@ -69,6 +69,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Sort Array By Parity | [Problem](https://leetcode.com/problems/sort-array-by-parity) | [Java Solution](src/javacode/solutions/SortArrayByParity.java)
 - Minimize Maximum Pair Sum | [Problem](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Java Solution](src/javacode/solutions/MinimizeMaximumPairSum.java)
 - Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array) | [Java Solution](src/javacode/solutions/MergeSortedArray.java)
+- Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Java Solution](src/javacode/solutions/PartitionLabels.java)
 
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
