@@ -77,5 +77,8 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Hamming Distance | [Problem](https://leetcode.com/problems/hamming-distance) | [Java Solution](src/javacode/solutions/HammingDistance.java)
 - Counting Bits | [Problem](https://leetcode.com/problems/counting-bits) | [Java Solution](src/javacode/solutions/CountingBits.java)
 
+### Sorting
+- Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
+
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
