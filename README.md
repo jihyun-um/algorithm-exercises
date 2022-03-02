@@ -79,6 +79,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### Sorting
 - Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
+- Group Anagrams | [Problem](https://leetcode.com/problems/group-anagrams) | [Java Solution](src/javacode/solutions/GroupAnagrams.java)
 
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
