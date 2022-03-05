@@ -5,8 +5,8 @@ import java.util.*;
 // [Problem] https://leetcode.com/problems/merge-intervals
 class MergeIntervals {
     // Array sorting
-    // O(nlogn) time, O(logn) space for sorting
-    public int[][] mergeArr(int[][] intervals) {
+    // O(nlogn) time, O(1) space
+    public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
         LinkedList<int[]> merged = new LinkedList<>();
@@ -22,7 +22,7 @@ class MergeIntervals {
 
     // Individual sorting
     // O(nlogn) time, O(n) space
-    public int[][] merge(int[][] intervals) {
+    public int[][] mergeIndividualSorting(int[][] intervals) {
         int n = intervals.length;
         int[] starts = new int[n], ends = new int[n];
         for (int i = 0; i < n; i++) {
