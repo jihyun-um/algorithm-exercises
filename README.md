@@ -78,6 +78,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Counting Bits | [Problem](https://leetcode.com/problems/counting-bits) | [Java Solution](src/javacode/solutions/CountingBits.java)
 
 ### Sorting
+- Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Java Solution](src/javacode/solutions/MeetingRooms.java)
 - Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
 - Group Anagrams | [Problem](https://leetcode.com/problems/group-anagrams) | [Java Solution](src/javacode/solutions/GroupAnagrams.java)
 
