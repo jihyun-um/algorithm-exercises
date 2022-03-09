@@ -25,6 +25,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Destination City | [Problem](https://leetcode.com/problems/destination-city) | [Java Solution](src/javacode/solutions/DestinationCity.java)
 - Number of Good Pairs | [Problem](https://leetcode.com/problems/number-of-good-pairs) | [Java Solution](src/javacode/solutions/NumberOfGoodPairs.java)
 - Logger Rate Limiter | [Problem](https://leetcode.com/problems/logger-rate-limiter) | [Java Solution](src/javacode/solutions/Logger.java)
+- Unique Number of Occurrences | [Problem](https://leetcode.com/problems/unique-number-of-occurrences) | [Java Solution](src/javacode/solutions/UniqueNumberOfOccurrences.java)
 
 ### Stack
 - Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
