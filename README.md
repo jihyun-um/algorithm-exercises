@@ -64,6 +64,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### BFS
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
+- Binary Tree Zigzag Level Order Traversal | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeZigzagLevelOrderTraversal.java)
 - Binary Tree Right Side View | [Problem](https://leetcode.com/problems/binary-tree-right-side-view) | [Java Solution](src/javacode/solutions/BinaryTreeRightSideView.java)
 
 ### Two Pointers
