@@ -6,7 +6,7 @@ import java.util.Arrays;
 class MeetingRooms {
     // Array sorting
     // O(nlogn) time, O(1) space
-    public boolean canAttendMeetings__(int[][] intervals) {
+    public boolean canAttendMeetings(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         for (int i = 0; i < intervals.length - 1; i++) {
             if (intervals[i][1] > intervals[i + 1][0]) {
@@ -18,7 +18,7 @@ class MeetingRooms {
 
     // Individual sorting
     // O(nlogn) time, O(1) space
-    public boolean canAttendMeetings(int[][] intervals) {
+    public boolean canAttendMeetingsIndividualSorting(int[][] intervals) {
         int n = intervals.length;
         int[] startTimes = new int[n], endTimes = new int[n];
         for (int i = 0; i < n; i++) {
