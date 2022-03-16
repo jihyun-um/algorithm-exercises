@@ -68,6 +68,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Binary Tree Right Side View | [Problem](https://leetcode.com/problems/binary-tree-right-side-view) | [Java Solution](src/javacode/solutions/BinaryTreeRightSideView.java)
 - Shortest Path in Binary Matrix | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Java Solution](src/javacode/solutions/ShortestPathInBinaryMatrix.java)
 - Shortest Path to Get Food | [Problem](https://leetcode.com/problems/shortest-path-to-get-food) | [Java Solution](src/javacode/solutions/ShortestPathToGetFood.java)
+- Shortest Distance from All Buildings | [Problem](https://leetcode.com/problems/shortest-distance-from-all-buildings) | [Java Solution](src/javacode/solutions/ShortestDistanceFromAllBuildings.java)
 
 ### Two Pointers
 - Valid Palindrome | [Problem](https://leetcode.com/problems/valid-palindrome) | [Java Solution](src/javacode/solutions/ValidPalindrome.java)
