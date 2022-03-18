@@ -61,6 +61,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/path-sum-ii) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
 - All Paths From Source to Target | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target) | [Java Solution](src/javacode/solutions/AllPathsFromSourceToTarget.java)
 - Count Univalue Subtrees | [Problem](https://leetcode.com/problems/count-univalue-subtrees) | [Java Solution](src/javacode/solutions/CountUnivalueSubtrees.java)
+- Number of Islands | [Problem](https://leetcode.com/problems/number-of-islands) | [Java Solution](src/javacode/solutions/NumberOfIslands.java)
 
 ### BFS
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
