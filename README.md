@@ -45,31 +45,14 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
 - Browser History | [Problem](https://leetcode.com/problems/design-browser-history) | [Java Solution](src/javacode/solutions/BrowserHistory.java)
 
-### Recursion
-- Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](src/javascript/solutions/findClosestValueInBst.js)
-- Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](src/javacode/solutions/SubtreeOfAnotherTree.java)
-- Climbing Stairs | [Problem](https://leetcode.com/problems/climbing-stairs) | [Java Solution](src/javacode/solutions/ClimbingStairs.java)
-- All Possible Full Binary Trees | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees) | [Java Solution](src/javacode/solutions/AllPossibleFullBinaryTrees.java)
+### Sorting
+- Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Java Solution](src/javacode/solutions/MeetingRooms.java)
+- Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
+- Group Anagrams | [Problem](https://leetcode.com/problems/group-anagrams) | [Java Solution](src/javacode/solutions/GroupAnagrams.java)
 
 ### Binary Search
 - Convert Sorted Array To BST | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java Solution](src/javacode/solutions/ConvertSortedArrayToBST.java)
 - Peak Index in a Mountain Array | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Java Solution](src/javacode/solutions/PeakIndexInMountainArray.java)
-
-### DFS
-- Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
-- Path Sum II | [Problem](https://leetcode.com/problems/path-sum-ii) | [JS Solution](src/javascript/solutions/pathSum2.js)
-- Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/path-sum-ii) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
-- All Paths From Source to Target | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target) | [Java Solution](src/javacode/solutions/AllPathsFromSourceToTarget.java)
-- Count Univalue Subtrees | [Problem](https://leetcode.com/problems/count-univalue-subtrees) | [Java Solution](src/javacode/solutions/CountUnivalueSubtrees.java)
-- Number of Islands | [Problem](https://leetcode.com/problems/number-of-islands) | [Java Solution](src/javacode/solutions/NumberOfIslands.java)
-
-### BFS
-- Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
-- Binary Tree Zigzag Level Order Traversal | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeZigzagLevelOrderTraversal.java)
-- Binary Tree Right Side View | [Problem](https://leetcode.com/problems/binary-tree-right-side-view) | [Java Solution](src/javacode/solutions/BinaryTreeRightSideView.java)
-- Shortest Path in Binary Matrix | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Java Solution](src/javacode/solutions/ShortestPathInBinaryMatrix.java)
-- Shortest Path to Get Food | [Problem](https://leetcode.com/problems/shortest-path-to-get-food) | [Java Solution](src/javacode/solutions/ShortestPathToGetFood.java)
-- Shortest Distance from All Buildings | [Problem](https://leetcode.com/problems/shortest-distance-from-all-buildings) | [Java Solution](src/javacode/solutions/ShortestDistanceFromAllBuildings.java)
 
 ### Two Pointers
 - Valid Palindrome | [Problem](https://leetcode.com/problems/valid-palindrome) | [Java Solution](src/javacode/solutions/ValidPalindrome.java)
@@ -80,16 +63,36 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array) | [Java Solution](src/javacode/solutions/MergeSortedArray.java)
 - Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Java Solution](src/javacode/solutions/PartitionLabels.java)
 
+### Recursion
+- Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value) | [JS Solution](src/javascript/solutions/findClosestValueInBst.js)
+- Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](src/javacode/solutions/SubtreeOfAnotherTree.java)
+- Climbing Stairs | [Problem](https://leetcode.com/problems/climbing-stairs) | [Java Solution](src/javacode/solutions/ClimbingStairs.java)
+- All Possible Full Binary Trees | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees) | [Java Solution](src/javacode/solutions/AllPossibleFullBinaryTrees.java)
+
+### BFS
+- Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
+- Binary Tree Zigzag Level Order Traversal | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeZigzagLevelOrderTraversal.java)
+- Binary Tree Right Side View | [Problem](https://leetcode.com/problems/binary-tree-right-side-view) | [Java Solution](src/javacode/solutions/BinaryTreeRightSideView.java)
+- Shortest Path in Binary Matrix | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Java Solution](src/javacode/solutions/ShortestPathInBinaryMatrix.java)
+- Shortest Path to Get Food | [Problem](https://leetcode.com/problems/shortest-path-to-get-food) | [Java Solution](src/javacode/solutions/ShortestPathToGetFood.java)
+- Shortest Distance from All Buildings | [Problem](https://leetcode.com/problems/shortest-distance-from-all-buildings) | [Java Solution](src/javacode/solutions/ShortestDistanceFromAllBuildings.java)
+
+### DFS
+- Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
+- Path Sum II | [Problem](https://leetcode.com/problems/path-sum-ii) | [JS Solution](src/javascript/solutions/pathSum2.js)
+- Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/path-sum-ii) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
+- All Paths From Source to Target | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target) | [Java Solution](src/javacode/solutions/AllPathsFromSourceToTarget.java)
+- Count Univalue Subtrees | [Problem](https://leetcode.com/problems/count-univalue-subtrees) | [Java Solution](src/javacode/solutions/CountUnivalueSubtrees.java)
+- Number of Islands | [Problem](https://leetcode.com/problems/number-of-islands) | [Java Solution](src/javacode/solutions/NumberOfIslands.java)
+
+### Backtracking
+- Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java Solution](src/javacode/solutions/LetterCombinationsOfPhoneNumber.java)
+
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
 - Subsets | [Problem](https://leetcode.com/problems/subsets) | [Java Solution](src/javacode/solutions/Subsets.java)
 - Hamming Distance | [Problem](https://leetcode.com/problems/hamming-distance) | [Java Solution](src/javacode/solutions/HammingDistance.java)
 - Counting Bits | [Problem](https://leetcode.com/problems/counting-bits) | [Java Solution](src/javacode/solutions/CountingBits.java)
-
-### Sorting
-- Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Java Solution](src/javacode/solutions/MeetingRooms.java)
-- Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
-- Group Anagrams | [Problem](https://leetcode.com/problems/group-anagrams) | [Java Solution](src/javacode/solutions/GroupAnagrams.java)
 
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
