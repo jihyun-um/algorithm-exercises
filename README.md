@@ -80,7 +80,8 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 ### DFS
 - Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
 - Path Sum II | [Problem](https://leetcode.com/problems/path-sum-ii) | [JS Solution](src/javascript/solutions/pathSum2.js)
-- Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/path-sum-ii) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
+- Find Leaves of Binary Tree | [Problem](https://leetcode.com/problems/find-leaves-of-binary-tree) | [Java Solution](src/javacode/solutions/FindLeavesOfBinaryTree.java)
+- Delete Leaves With a Given Value | [Problem](https://leetcode.com/problems/delete-leaves-with-a-given-value) | [Java Solution](src/javacode/solutions/DeleteLeavesWithGivenValue.java)
 - All Paths From Source to Target | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target) | [Java Solution](src/javacode/solutions/AllPathsFromSourceToTarget.java)
 - Count Univalue Subtrees | [Problem](https://leetcode.com/problems/count-univalue-subtrees) | [Java Solution](src/javacode/solutions/CountUnivalueSubtrees.java)
 - Delete Nodes And Return Forest | [Problem](https://leetcode.com/problems/delete-nodes-and-return-forest) | [Java Solution](src/javacode/solutions/DeleteNodesAndReturnForest.java)
