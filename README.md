@@ -89,6 +89,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Number of Islands | [Problem](https://leetcode.com/problems/number-of-islands) | [Java Solution](src/javacode/solutions/NumberOfIslands.java)
 
 ### Backtracking
+- Permutations | [Problem](https://leetcode.com/problems/permutations) | [Java Solution](src/javacode/solutions/Permutations.java)
 - Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java Solution](src/javacode/solutions/LetterCombinationsOfPhoneNumber.java)
 - Combination Sum | [Problem](https://leetcode.com/problems/combination-sum) | [Java Solution](src/javacode/solutions/CombinationSum.java)
 - Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses) | [Java Solution](src/javacode/solutions/GenerateParentheses.java)
