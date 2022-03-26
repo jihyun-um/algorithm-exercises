@@ -31,7 +31,7 @@ class MaximumProductOfSplitBinaryTree {
 
     // Test
     public static void main(String[] args) {
-        MaximumProductOfSplitBinaryTree removeHistory = new MaximumProductOfSplitBinaryTree();
+        MaximumProductOfSplitBinaryTree solution = new MaximumProductOfSplitBinaryTree();
 
         // Given input tree:
         //      1
@@ -43,7 +43,7 @@ class MaximumProductOfSplitBinaryTree {
                 new TreeNode(2, new TreeNode(4), new TreeNode(5)),
                 new TreeNode(3, new TreeNode(6), null));
         int expectedOutput1 = 110;
-        int actualOutput1 = removeHistory.maxProduct(input1);
+        int actualOutput1 = solution.maxProduct(input1);
         System.out.println("Test 1 passed? " + (expectedOutput1 == actualOutput1));
 
         // Given input tree:
@@ -60,7 +60,7 @@ class MaximumProductOfSplitBinaryTree {
                         new TreeNode(3),
                         new TreeNode(4, new TreeNode(5), new TreeNode(6))));
         int expectedOutput2 = 110;
-        int actualOutput2 = removeHistory.maxProduct(input2);
+        int actualOutput2 = solution.maxProduct(input2);
         System.out.println("Test 2 passed? " + (expectedOutput2 == actualOutput2));
     }
 }

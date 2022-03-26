@@ -39,7 +39,7 @@ class DeleteNodesAndReturnForest {
 
     // Test
     public static void main(String[] args) {
-        DeleteNodesAndReturnForest removeHistory = new DeleteNodesAndReturnForest();
+        DeleteNodesAndReturnForest solution = new DeleteNodesAndReturnForest();
 
         // Given input tree:
         //      1
@@ -56,7 +56,7 @@ class DeleteNodesAndReturnForest {
                 new TreeNode(1, new TreeNode(2, new TreeNode(4), null), null),
                 new TreeNode(6),
                 new TreeNode(7));
-        List<TreeNode> actualOutput = removeHistory.delNodes(root, toDelete);
+        List<TreeNode> actualOutput = solution.delNodes(root, toDelete);
 
         System.out.println(actualOutput);
         System.out.println("Test passed? " + expectedOutput.equals(actualOutput));
