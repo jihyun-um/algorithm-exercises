@@ -87,6 +87,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Delete Nodes And Return Forest | [Problem](https://leetcode.com/problems/delete-nodes-and-return-forest) | [Java Solution](src/javacode/solutions/DeleteNodesAndReturnForest.java)
 - Maximum Product of Split Binary Tree | [Problem](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [Java Solution](src/javacode/solutions/MaximumProductOfSplitBinaryTree.java)
 - Number of Islands | [Problem](https://leetcode.com/problems/number-of-islands) | [Java Solution](src/javacode/solutions/NumberOfIslands.java)
+- Battleships in a Board | [Problem](https://leetcode.com/problems/battleships-in-a-board) | [Java Solution](src/javacode/solutions/BattleshipsInBoard.java)
 
 ### Backtracking
 - Permutations | [Problem](https://leetcode.com/problems/permutations) | [Java Solution](src/javacode/solutions/Permutations.java)
