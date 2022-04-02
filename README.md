@@ -92,6 +92,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Battleships in a Board | [Problem](https://leetcode.com/problems/battleships-in-a-board) | [Java Solution](src/javacode/solutions/BattleshipsInBoard.java)
 
 ### Backtracking
+- Combinations | [Problem](https://leetcode.com/problems/combinations) | [Java Solution](src/javacode/solutions/Combinations.java)
 - Permutations | [Problem](https://leetcode.com/problems/permutations) | [Java Solution](src/javacode/solutions/Permutations.java)
 - Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java Solution](src/javacode/solutions/LetterCombinationsOfPhoneNumber.java)
 - Combination Sum | [Problem](https://leetcode.com/problems/combination-sum) | [Java Solution](src/javacode/solutions/CombinationSum.java)
