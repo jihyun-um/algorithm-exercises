@@ -97,6 +97,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java Solution](src/javacode/solutions/LetterCombinationsOfPhoneNumber.java)
 - Combination Sum | [Problem](https://leetcode.com/problems/combination-sum) | [Java Solution](src/javacode/solutions/CombinationSum.java)
 - Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses) | [Java Solution](src/javacode/solutions/GenerateParentheses.java)
+- Word Search | [Problem](https://leetcode.com/problems/word-search) | [Java Solution](src/javacode/solutions/WordSearch.java)
 
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
