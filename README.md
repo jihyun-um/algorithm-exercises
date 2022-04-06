@@ -47,6 +47,9 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
 - Browser History | [Problem](https://leetcode.com/problems/design-browser-history) | [Java Solution](src/javacode/solutions/BrowserHistory.java)
 
+### Tree
+- Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
+
 ### Sorting
 - Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Java Solution](src/javacode/solutions/MeetingRooms.java)
 - Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Java Solution](src/javacode/solutions/MergeIntervals.java)
