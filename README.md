@@ -49,6 +49,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 
 ### Tree
 - Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
+- Implement Trie II (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-ii-prefix-tree) | [Java Solution](src/javacode/solutions/TrieII.java)
 
 ### Sorting
 - Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Java Solution](src/javacode/solutions/MeetingRooms.java)
