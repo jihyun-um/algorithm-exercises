@@ -47,7 +47,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
 - Browser History | [Problem](https://leetcode.com/problems/design-browser-history) | [Java Solution](src/javacode/solutions/BrowserHistory.java)
 
-### Tree
+### Trie
 - Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
 - Implement Trie II (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-ii-prefix-tree) | [Java Solution](src/javacode/solutions/TrieII.java)
 
@@ -102,6 +102,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Combination Sum | [Problem](https://leetcode.com/problems/combination-sum) | [Java Solution](src/javacode/solutions/CombinationSum.java)
 - Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses) | [Java Solution](src/javacode/solutions/GenerateParentheses.java)
 - Word Search | [Problem](https://leetcode.com/problems/word-search) | [Java Solution](src/javacode/solutions/WordSearch.java)
+- Word Search II | [Problem](https://leetcode.com/problems/word-search-ii) | [Java Solution](src/javacode/solutions/WordSearchII.java)
 
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
