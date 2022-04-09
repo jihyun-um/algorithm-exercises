@@ -103,6 +103,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses) | [Java Solution](src/javacode/solutions/GenerateParentheses.java)
 - Word Search | [Problem](https://leetcode.com/problems/word-search) | [Java Solution](src/javacode/solutions/WordSearch.java)
 - Word Search II | [Problem](https://leetcode.com/problems/word-search-ii) | [Java Solution](src/javacode/solutions/WordSearchII.java)
+- Sudoku Solver | [Problem](https://leetcode.com/problems/sudoku-solver) | [Java Solution](src/javacode/solutions/SudokuSolver.java)
 
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
