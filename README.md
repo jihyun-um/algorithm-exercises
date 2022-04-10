@@ -104,6 +104,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Word Search | [Problem](https://leetcode.com/problems/word-search) | [Java Solution](src/javacode/solutions/WordSearch.java)
 - Word Search II | [Problem](https://leetcode.com/problems/word-search-ii) | [Java Solution](src/javacode/solutions/WordSearchII.java)
 - Sudoku Solver | [Problem](https://leetcode.com/problems/sudoku-solver) | [Java Solution](src/javacode/solutions/SudokuSolver.java)
+- Expression Add Operators | [Problem](https://leetcode.com/problems/expression-add-operators) | [Java Solution](src/javacode/solutions/ExpressionAddOperators.java)
 
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Java Solution](src/javacode/solutions/SingleNumber.java)
