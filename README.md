@@ -29,6 +29,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Unique Number of Occurrences | [Problem](https://leetcode.com/problems/unique-number-of-occurrences) | [Java Solution](src/javacode/solutions/UniqueNumberOfOccurrences.java)
 
 ### Stack
+- Min Stack | [Problem](https://leetcode.com/problems/min-stack) | [Java Solution](src/javacode/solutions/MinStack.java)
 - Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
 - Longest Absolute File Path | [Problem](https://leetcode.com/problems/longest-absolute-file-path) | [Java Solution](src/javacode/solutions/LongestAbsoluteFilePath.java)
 - Remove All Adjacent Duplicates In String | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java Solution](src/javacode/solutions/RemoveDuplicatesInString.java)
