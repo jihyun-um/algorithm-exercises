@@ -48,6 +48,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
 - Browser History | [Problem](https://leetcode.com/problems/design-browser-history) | [Java Solution](src/javacode/solutions/BrowserHistory.java)
 - LRU Cache | [Problem](https://leetcode.com/problems/lru-cache) | [Java Solution](src/javacode/solutions/LRUCache.java)
+- LFU Cache | [Problem](https://leetcode.com/problems/lfu-cache) | [Java Solution](src/javacode/solutions/LFUCache.java)
 
 ### Trie
 - Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
