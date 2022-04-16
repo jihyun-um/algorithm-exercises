@@ -50,6 +50,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - LRU Cache | [Problem](https://leetcode.com/problems/lru-cache) | [Java Solution](src/javacode/solutions/LRUCache.java)
 - LFU Cache | [Problem](https://leetcode.com/problems/lfu-cache) | [Java Solution](src/javacode/solutions/LFUCache.java)
 - Insertion Sort List | [Problem](https://leetcode.com/problems/insertion-sort-list) | [Java Solution](src/javacode/solutions/InsertionSortList.java)
+- Insert into a Sorted Circular Linked List | [Problem](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list) | [Java Solution](src/javacode/solutions/InsertIntoSortedCircularLinkedList.java)
 
 ### Trie
 - Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
