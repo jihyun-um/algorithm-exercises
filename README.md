@@ -49,6 +49,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Browser History | [Problem](https://leetcode.com/problems/design-browser-history) | [Java Solution](src/javacode/solutions/BrowserHistory.java)
 - LRU Cache | [Problem](https://leetcode.com/problems/lru-cache) | [Java Solution](src/javacode/solutions/LRUCache.java)
 - LFU Cache | [Problem](https://leetcode.com/problems/lfu-cache) | [Java Solution](src/javacode/solutions/LFUCache.java)
+- Insertion Sort List | [Problem](https://leetcode.com/problems/insertion-sort-list) | [Java Solution](src/javacode/solutions/InsertionSortList.java)
 
 ### Trie
 - Implement Trie (Prefix Tree) | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java Solution](src/javacode/solutions/Trie.java)
