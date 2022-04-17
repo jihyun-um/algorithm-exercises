@@ -1,5 +1,7 @@
 package javacode.solutions;
 
+import javacode.datastructure.ListNode;
+
 // [Problem] https://leetcode.com/problems/insertion-sort-list
 class InsertionSortList {
     // Moving over to another linked list
@@ -31,27 +33,5 @@ class InsertionSortList {
 
         ListNode output = solution.insertionSortList(input);
         System.out.println(output); // expected: [1, 2, 3, 4]
-    }
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-
-    @Override
-    public String toString() {
-        return this.val + " ---> " + this.next;
     }
 }

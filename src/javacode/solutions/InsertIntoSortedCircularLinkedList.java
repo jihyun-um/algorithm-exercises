@@ -1,17 +1,19 @@
 package javacode.solutions;
 
+import javacode.datastructure.ListNode;
+
 // [Problem] https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
 class InsertIntoSortedCircularLinkedList {
     // Circular linked list
     // O(n) time, O(1) space
-    public CircularLinkedNode insert(CircularLinkedNode head, int insertVal) {
-        CircularLinkedNode newNode = new CircularLinkedNode(insertVal);
+    public ListNode insert(ListNode head, int insertVal) {
+        ListNode newNode = new ListNode(insertVal);
         if (head == null) {
             newNode.next = newNode;
             return newNode;
         }
-        CircularLinkedNode current = head;
-        CircularLinkedNode next = head.next;
+        ListNode current = head;
+        ListNode next = head.next;
         while (next != head) {
             if ((insertVal >= current.val && insertVal <= next.val) ||
                     (next.val < current.val && (insertVal <= next.val || insertVal >= current.val))) {
@@ -29,29 +31,12 @@ class InsertIntoSortedCircularLinkedList {
     public static void main(String[] args) {
         InsertIntoSortedCircularLinkedList solution = new InsertIntoSortedCircularLinkedList();
 
-        CircularLinkedNode head = new CircularLinkedNode(3);
-        head.next = new CircularLinkedNode(4);
-        head.next.next = new CircularLinkedNode(1);
+        ListNode head = new ListNode(3);
+        head.next = new ListNode(4);
+        head.next.next = new ListNode(1);
         head.next.next.next = head;
         int insertVal = 2;
 
-        CircularLinkedNode output = solution.insert(head, insertVal);
-    }
-}
-
-class CircularLinkedNode {
-    public int val;
-    public CircularLinkedNode next;
-
-    public CircularLinkedNode() {
-    }
-
-    public CircularLinkedNode(int val) {
-        this.val = val;
-    }
-
-    public CircularLinkedNode(int val, CircularLinkedNode next) {
-        this.val = val;
-        this.next = next;
+        ListNode output = solution.insert(head, insertVal);
     }
 }
