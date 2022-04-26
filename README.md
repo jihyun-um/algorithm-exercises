@@ -43,6 +43,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Kth Largest Elements | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Java Solution](src/javacode/solutions/KthLargestElement.java)
 - Meeting Rooms II | [Problem](https://leetcode.com/problems/meeting-rooms-ii) | [Java Solution](src/javacode/solutions/MeetingRoomsII.java)
 - Find Median From Data Stream | [Problem](https://leetcode.com/problems/find-median-from-data-stream) | [Java Solution](src/javacode/solutions/FindMedianFromDataStream.java)
+- Stock Price Fluctuation | [Problem](https://leetcode.com/problems/stock-price-fluctuation) | [Java Solution](src/javacode/solutions/StockPrice.java)
 
 ### LinkedList
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
