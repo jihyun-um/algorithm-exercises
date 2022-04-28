@@ -45,6 +45,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Find Median From Data Stream | [Problem](https://leetcode.com/problems/find-median-from-data-stream) | [Java Solution](src/javacode/solutions/FindMedianFromDataStream.java)
 - Stock Price Fluctuation | [Problem](https://leetcode.com/problems/stock-price-fluctuation) | [Java Solution](src/javacode/solutions/StockPrice.java)
 - Employee Free Time | [Problem](https://leetcode.com/problems/employee-free-time) | [Java Solution](src/javacode/solutions/EmployeeFreeTime.java)
+- Process Tasks Using Servers | [Problem](https://leetcode.com/problems/process-tasks-using-servers) | [Java Solution](src/javacode/solutions/ProcessTasksUsingServers.java)
 
 ### LinkedList
 - Lowest Common Ancestor Of Binary Tree III | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | [Java Solution](src/javacode/solutions/LowestCommonAncestorOfBinaryTreeIII.java)
