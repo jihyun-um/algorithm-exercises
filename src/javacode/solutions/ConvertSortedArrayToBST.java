@@ -4,8 +4,8 @@ import javacode.datastructure.TreeNode;
 
 // [Problem] https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 class ConvertSortedArrayToBST {
-
-    // Binary search solution - O(logN) time, O(1) space
+    // Binary search
+    // O(logn) time, O(1) space
     public TreeNode sortedArrayToBST(int[] nums) {
         return sortedArrayToBST(nums, 0, nums.length - 1);
     }
@@ -20,5 +20,4 @@ class ConvertSortedArrayToBST {
         node.right = sortedArrayToBST(nums, midIndex + 1, endIndex);
         return node;
     }
-
 }

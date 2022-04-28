@@ -8,8 +8,8 @@ import java.util.Stack;
 
 // [Problem] https://leetcode.com/problems/binary-tree-inorder-traversal/
 class BinaryTreeInorderTraversal {
-
-    // Recursion solution - O(N) time, O(logN) space
+    // Recursion
+    // O(n) time, O(logn) space
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> values = new ArrayList<>();
         addValueInorder(root, values);
@@ -24,7 +24,8 @@ class BinaryTreeInorderTraversal {
         }
     }
 
-    // Stack solution - O(N) time, O(N) space
+    // Stack
+    // O(n) time, O(n) space
     public List<Integer> inorderTraversalStack(TreeNode root) {
         List<Integer> values = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
@@ -42,5 +43,4 @@ class BinaryTreeInorderTraversal {
 
         return values;
     }
-
 }

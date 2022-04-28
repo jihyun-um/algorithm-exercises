@@ -3,21 +3,10 @@ package javacode.solutions;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-// [Problem] https://leetcode.com/problems/first-unique-character-in-a-string/
+// [Problem] https://leetcode.com/problems/first-unique-character-in-a-string
 class FirstUniqueCharacter {
-
-    // test
-    public static void main(String[] args) {
-        FirstUniqueCharacter solution = new FirstUniqueCharacter();
-
-        String input = "loveleetcode";
-        int expectedOutput = 2;
-        int actualOutput = solution.firstUniqueChar(input);
-
-        System.out.println("Test passed? " + (expectedOutput == actualOutput));
-    }
-
-    // HashMap solution - O(n) time, O(n) space
+    // HashMap
+    // O(n) time, O(n) space
     public int firstUniqueCharHashMap(String s) {
         Map<Character, Integer> charFrequencies = new LinkedHashMap<>();
 
@@ -35,7 +24,8 @@ class FirstUniqueCharacter {
         return -1;
     }
 
-    // Two pointers solution - O(n) time, O(n) space
+    // Two pointers
+    // O(n) time, O(n) space
     public int firstUniqueChar(String s) {
         if (s == null || s.length() == 0) {
             return -1;
@@ -62,4 +52,14 @@ class FirstUniqueCharacter {
         return slow;
     }
 
+    // Test
+    public static void main(String[] args) {
+        FirstUniqueCharacter solution = new FirstUniqueCharacter();
+
+        String input = "loveleetcode";
+        int expectedOutput = 2;
+        int actualOutput = solution.firstUniqueChar(input);
+
+        System.out.println("Test passed? " + (expectedOutput == actualOutput));
+    }
 }

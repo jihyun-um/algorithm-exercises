@@ -2,6 +2,7 @@ package javacode.solutions;
 
 // [Problem] https://leetcode.com/problems/count-sorted-vowel-strings
 class CountSortedVowelStrings {
+    // Dynamic programming
     // O(n) time, O(1) space
     public int countVowelStrings(int n) {
         int aCount = 1, eCount = 1, iCount = 1, oCount = 1, uCount = 1;
@@ -18,7 +19,7 @@ class CountSortedVowelStrings {
         return (aCount + eCount + iCount + oCount + uCount);
     }
 
-    // test
+    // Test
     public static void main(String[] args) {
         CountSortedVowelStrings solution = new CountSortedVowelStrings();
 

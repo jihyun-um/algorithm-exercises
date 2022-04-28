@@ -31,6 +31,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 ### Stack
 - Min Stack | [Problem](https://leetcode.com/problems/min-stack) | [Java Solution](src/javacode/solutions/MinStack.java)
 - Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses) | [Java Solution](src/javacode/solutions/ValidParentheses.java)
+- Decode String | [Problem](https://leetcode.com/problems/decode-string) | [Java Solution](src/javacode/solutions/DecodeString.java)
 - Longest Absolute File Path | [Problem](https://leetcode.com/problems/longest-absolute-file-path) | [Java Solution](src/javacode/solutions/LongestAbsoluteFilePath.java)
 - Remove All Adjacent Duplicates In String | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java Solution](src/javacode/solutions/RemoveDuplicatesInString.java)
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
@@ -70,6 +71,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Peak Index in a Mountain Array | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Java Solution](src/javacode/solutions/PeakIndexInMountainArray.java)
 
 ### Two Pointers
+- First Unique Character | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java Solution](src/javacode/solutions/FirstUniqueCharacter.java)
 - Valid Palindrome | [Problem](https://leetcode.com/problems/valid-palindrome) | [Java Solution](src/javacode/solutions/ValidPalindrome.java)
 - Is Subsequence | [Problem](https://leetcode.com/problems/is-subsequence) | [JS Solution](src/javascript/solutions/isSubsequence.js)
 - Squares of a Sorted Array | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array) | [JS Solution](src/javascript/solutions/sortedSquares.js)
@@ -85,7 +87,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - All Possible Full Binary Trees | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees) | [Java Solution](src/javacode/solutions/AllPossibleFullBinaryTrees.java)
 
 ### BFS
-- Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeInorderTraversal.java)
+- Binary Tree Level Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeLevelOrderTraversal.java)
 - Binary Tree Zigzag Level Order Traversal | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeZigzagLevelOrderTraversal.java)
 - Binary Tree Right Side View | [Problem](https://leetcode.com/problems/binary-tree-right-side-view) | [Java Solution](src/javacode/solutions/BinaryTreeRightSideView.java)
 - Shortest Path in Binary Matrix | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Java Solution](src/javacode/solutions/ShortestPathInBinaryMatrix.java)

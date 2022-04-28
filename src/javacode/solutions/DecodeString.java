@@ -2,21 +2,10 @@ package javacode.solutions;
 
 import java.util.Stack;
 
-// [Problem] https://leetcode.com/problems/decode-string/
+// [Problem] https://leetcode.com/problems/decode-string
 class DecodeString {
-
-    // test
-    public static void main(String[] args) {
-        DecodeString solution = new DecodeString();
-
-        String input = "3[a2[c]]";
-        String expectedOutput = "accaccacc";
-        String actualOutput = solution.decodeString(input);
-
-        System.out.println("Test passed? " + expectedOutput.equals(actualOutput));
-    }
-
-    // Using stack - O(n) time, O(n) space
+    // Stack
+    // O(n) time, O(n) space
     public String decodeString(String s) {
         Stack<Integer> repeatCounts = new Stack<>();
         Stack<String> storedStrings = new Stack<>();
@@ -45,4 +34,14 @@ class DecodeString {
         return storedStrings.pop();
     }
 
+    // Test
+    public static void main(String[] args) {
+        DecodeString solution = new DecodeString();
+
+        String input = "3[a2[c]]";
+        String expectedOutput = "accaccacc";
+        String actualOutput = solution.decodeString(input);
+
+        System.out.println("Test passed? " + expectedOutput.equals(actualOutput));
+    }
 }

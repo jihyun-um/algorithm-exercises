@@ -2,7 +2,7 @@ package javacode.solutions;
 
 // [Problem] https://leetcode.com/problems/hamming-distance
 class HammingDistance {
-    // Xor with built-in bitCount function
+    // Bit manipulation with built-in bitCount function
     // O(k) time where k = number of bits, O(1) space
     public int hammingDistance(int x, int y) {
         // xor returns 0 for same digits, 1 for different digits
@@ -11,7 +11,7 @@ class HammingDistance {
         return Integer.bitCount(xor);
     }
 
-    // Xor with bit counting by logical shift
+    // Bit manipulation with bit counting by logical shift
     // O(k) time where k = number of bits, O(1) space
     public int hammingDistanceLogicalShift(int x, int y) {
         int xor = x ^ y;
@@ -27,7 +27,7 @@ class HammingDistance {
         return differentDigits;
     }
 
-    // test
+    // Test
     public static void main(String[] args) {
         HammingDistance solution = new HammingDistance();
 

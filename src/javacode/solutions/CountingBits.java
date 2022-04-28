@@ -46,6 +46,5 @@ class CountingBits {
         int[] actualOutput = solution.countBits(input);
 
         System.out.println("Test passed? " + Arrays.equals(expectedOutput, actualOutput));
-
     }
 }

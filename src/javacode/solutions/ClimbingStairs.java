@@ -1,20 +1,9 @@
 package javacode.solutions;
 
-// [Problem] https://leetcode.com/problems/climbing-stairs/
+// [Problem] https://leetcode.com/problems/climbing-stairs
 class ClimbingStairs {
-
-    // test
-    public static void main(String[] args) {
-        ClimbingStairs solution = new ClimbingStairs();
-
-        int input = 3;
-        int expectedOutput = 3;
-        int actualOutput = solution.climbStairs(input);
-
-        System.out.println("Test passed? " + (expectedOutput == actualOutput));
-    }
-
-    // Recursion with memoization - O(n) time, O(n) space
+    // Recursion with memoization
+    // O(n) time, O(n) space
     private int[] memo;
 
     public int climbStairs(int n) {
@@ -35,7 +24,8 @@ class ClimbingStairs {
         return memo[n];
     }
 
-    // Bottom up with memoization - O(n) time, O(n) space
+    // Bottom up with memoization
+    // O(n) time, O(n) space
     public int climbStairsBottomUp(int n) {
         if (n <= 1) {
             return n;
@@ -48,5 +38,16 @@ class ClimbingStairs {
             memo[i] = memo[i - 2] + memo[i - 1];
         }
         return memo[n];
+    }
+
+    // Test
+    public static void main(String[] args) {
+        ClimbingStairs solution = new ClimbingStairs();
+
+        int input = 3;
+        int expectedOutput = 3;
+        int actualOutput = solution.climbStairs(input);
+
+        System.out.println("Test passed? " + (expectedOutput == actualOutput));
     }
 }

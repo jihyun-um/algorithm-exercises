@@ -4,19 +4,7 @@ import java.util.Arrays;
 
 // [Problem] https://leetcode.com/problems/concatenation-of-array/
 class ConcatenationOfArray {
-
-    // test
-    public static void main(String[] args) {
-        ConcatenationOfArray solution = new ConcatenationOfArray();
-
-        int[] nums = {1, 2, 1};
-        int[] expectedOutput = {1, 2, 1, 1, 2, 1};
-        int[] actualOutput = solution.getConcatenation(nums);
-
-        System.out.println(Arrays.toString(actualOutput));
-        System.out.println("Test passed? " + Arrays.equals(expectedOutput, actualOutput));
-    }
-
+    // Array
     // O(n) time, O(n) space
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
@@ -27,4 +15,14 @@ class ConcatenationOfArray {
         return concatenatedArr;
     }
 
+    // Test
+    public static void main(String[] args) {
+        ConcatenationOfArray solution = new ConcatenationOfArray();
+
+        int[] nums = {1, 2, 1};
+        int[] expectedOutput = {1, 2, 1, 1, 2, 1};
+        int[] actualOutput = solution.getConcatenation(nums);
+
+        System.out.println("Test passed? " + Arrays.equals(expectedOutput, actualOutput));
+    }
 }

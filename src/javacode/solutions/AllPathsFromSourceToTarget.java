@@ -26,7 +26,7 @@ class AllPathsFromSourceToTarget {
         }
     }
 
-    // test
+    // Test
     public static void main(String[] args) {
         AllPathsFromSourceToTarget solution = new AllPathsFromSourceToTarget();
 
