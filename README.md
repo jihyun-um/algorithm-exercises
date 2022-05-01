@@ -94,6 +94,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Shortest Path in Binary Matrix | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Java Solution](src/javacode/solutions/ShortestPathInBinaryMatrix.java)
 - Shortest Path to Get Food | [Problem](https://leetcode.com/problems/shortest-path-to-get-food) | [Java Solution](src/javacode/solutions/ShortestPathToGetFood.java)
 - Shortest Distance from All Buildings | [Problem](https://leetcode.com/problems/shortest-distance-from-all-buildings) | [Java Solution](src/javacode/solutions/ShortestDistanceFromAllBuildings.java)
+- Find if Path Exists in Graph | [Problem](https://leetcode.com/problems/find-if-path-exists-in-graph) | [Java Solution](src/javacode/solutions/FindIfPathExistsInGraph.java)
 
 ### DFS
 - Path Sum | [Problem](https://leetcode.com/problems/path-sum) | [JS Solution](src/javascript/solutions/pathSum.js)
