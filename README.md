@@ -129,3 +129,4 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 ### Dynamic Programming
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
 - Count Square Submatrices with All Ones | [Problem](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Java Solution](src/javacode/solutions/CountSquareSubmatrices.java)
+- Minimum Falling Path Sum | [Problem](https://leetcode.com/problems/minimum-falling-path-sum) | [Java Solution](src/javacode/solutions/MinimumFallingPathSum.java)
