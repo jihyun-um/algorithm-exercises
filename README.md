@@ -20,6 +20,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Cells with Odd Values in a Matrix | [Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java Solution](src/javacode/solutions/OddCellsInMatrix.java)
 - Island Perimeter | [Problem](https://leetcode.com/problems/island-perimeter) | [Java Solution](src/javacode/solutions/IslandPerimeter.java)
 - Valid Sudoku | [Problem](https://leetcode.com/problems/valid-sudoku) | [Java Solution](src/javacode/solutions/ValidSudoku.java)
+- Where Will the Ball Fall | [Problem](https://leetcode.com/problems/where-will-the-ball-fall) | [Java Solution](src/javacode/solutions/WhereWillTheBallFall.java)
 
 ### HashTable
 - Two Sum | [Problem](https://leetcode.com/problems/two-sum) | [Java Solution](src/javacode/solutions/TwoSum.java) | [JS Solution](src/javascript/solutions/twoSum.js)
