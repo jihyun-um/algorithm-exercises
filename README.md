@@ -87,6 +87,7 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Java Solution](src/javacode/solutions/SubtreeOfAnotherTree.java)
 - Climbing Stairs | [Problem](https://leetcode.com/problems/climbing-stairs) | [Java Solution](src/javacode/solutions/ClimbingStairs.java)
 - All Possible Full Binary Trees | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees) | [Java Solution](src/javacode/solutions/AllPossibleFullBinaryTrees.java)
+- Different Ways to Add Parentheses | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Java Solution](src/javacode/solutions/DifferentWaysToAddParentheses.java)
 
 ### BFS
 - Binary Tree Level Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Java Solution](src/javacode/solutions/BinaryTreeLevelOrderTraversal.java)
