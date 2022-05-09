@@ -132,3 +132,4 @@ Algorithm exercises from LeetCode implemented in Java (v11) and JavaScript.
 - Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Java Solution](src/javacode/solutions/CountSortedVowelStrings.java)
 - Count Square Submatrices with All Ones | [Problem](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Java Solution](src/javacode/solutions/CountSquareSubmatrices.java)
 - Minimum Falling Path Sum | [Problem](https://leetcode.com/problems/minimum-falling-path-sum) | [Java Solution](src/javacode/solutions/MinimumFallingPathSum.java)
+- Maximum Number of Points with Cost | [Problem](https://leetcode.com/problems/maximum-number-of-points-with-cost) | [Java Solution](src/javacode/solutions/MaximumNumberOfPointsWithCost.java)
