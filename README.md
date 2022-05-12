@@ -133,3 +133,4 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Count Square Submatrices with All Ones | [Problem](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](src/solutions/CountSquareSubmatrices.java)
 - Minimum Falling Path Sum | [Problem](https://leetcode.com/problems/minimum-falling-path-sum) | [Solution](src/solutions/MinimumFallingPathSum.java)
 - Maximum Number of Points with Cost | [Problem](https://leetcode.com/problems/maximum-number-of-points-with-cost) | [Solution](src/solutions/MaximumNumberOfPointsWithCost.java)
+- Partition Equal Subset Sum | [Problem](https://leetcode.com/problems/partition-equal-subset-sum) | [Solution](src/solutions/PartitionEqualSubsetSum.java)
