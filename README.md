@@ -129,9 +129,10 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Counting Bits | [Problem](https://leetcode.com/problems/counting-bits) | [Solution](src/solutions/CountingBits.java)
 
 ### Dynamic Programming
-- Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Solution](src/solutions/CountSortedVowelStrings.java)
-- Count Square Submatrices with All Ones | [Problem](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](src/solutions/CountSquareSubmatrices.java)
+- Best Sightseeing Pair | [Problem](https://leetcode.com/problems/best-sightseeing-pair) | [Solution](src/solutions/BestSightseeingPair.java)
 - Minimum Path Sum | [Problem](https://leetcode.com/problems/minimum-path-sum) | [Solution](src/solutions/MinimumPathSum.java)
 - Minimum Falling Path Sum | [Problem](https://leetcode.com/problems/minimum-falling-path-sum) | [Solution](src/solutions/MinimumFallingPathSum.java)
 - Maximum Number of Points with Cost | [Problem](https://leetcode.com/problems/maximum-number-of-points-with-cost) | [Solution](src/solutions/MaximumNumberOfPointsWithCost.java)
+- Count Sorted Vowel Strings | [Problem](https://leetcode.com/problems/count-sorted-vowel-strings) | [Solution](src/solutions/CountSortedVowelStrings.java)
+- Count Square Submatrices with All Ones | [Problem](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](src/solutions/CountSquareSubmatrices.java)
 - Partition Equal Subset Sum | [Problem](https://leetcode.com/problems/partition-equal-subset-sum) | [Solution](src/solutions/PartitionEqualSubsetSum.java)
