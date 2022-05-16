@@ -83,6 +83,9 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array) | [Solution](src/solutions/MergeSortedArray.java)
 - Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Solution](src/solutions/PartitionLabels.java)
 
+### Sliding Window
+- Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum) | [Solution](src/solutions/BinarySubarraysWithSum.java)
+
 ### Recursion
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value)
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Solution](src/solutions/SubtreeOfAnotherTree.java)
