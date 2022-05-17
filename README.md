@@ -84,6 +84,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Solution](src/solutions/PartitionLabels.java)
 
 ### Sliding Window
+- Minimum Size Subarray Sum | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | [Solution](src/solutions/MinimumSizeSubarraySum.java)
 - Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum) | [Solution](src/solutions/BinarySubarraysWithSum.java)
 
 ### Recursion
