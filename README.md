@@ -86,6 +86,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 ### Sliding Window
 - Minimum Size Subarray Sum | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | [Solution](src/solutions/MinimumSizeSubarraySum.java)
 - Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum) | [Solution](src/solutions/BinarySubarraysWithSum.java)
+- Maximum Points You Can Obtain from Cards | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [Solution](src/solutions/MaximumPointsFromCards.java)
 - Longest Substring Without Repeating Characters | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution](src/solutions/LongestSubstringWithoutRepeatingCharacters.java)
 
 ### Recursion
