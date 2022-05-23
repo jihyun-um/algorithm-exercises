@@ -7,6 +7,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Sorting Sentence | [Problem](https://leetcode.com/problems/sorting-the-sentence) | [Solution](src/solutions/SortingSentence.java)
 - Student Attendance Record I | [Problem](https://leetcode.com/problems/student-attendance-record-i) | [Solution](src/solutions/StudentAttendanceRecord.java)
 - Reverse Words in a String III | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](src/solutions/ReverseWordsInStringIII.java)
+- One Edit Distance | [Problem](https://leetcode.com/problems/one-edit-distance) | [Solution](src/solutions/OneEditDistance.java)
 
 ### Array
 - Jewels and Stones | [Problem](https://leetcode.com/problems/jewels-and-stones) | [Solution](src/solutions/JewelsAndStones.java)
