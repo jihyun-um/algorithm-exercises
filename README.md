@@ -83,6 +83,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Minimize Maximum Pair Sum | [Problem](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Solution](src/solutions/MinimizeMaximumPairSum.java)
 - Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array) | [Solution](src/solutions/MergeSortedArray.java)
 - Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Solution](src/solutions/PartitionLabels.java)
+- Meeting Scheduler | [Problem](https://leetcode.com/problems/meeting-scheduler) | [Solution](src/solutions/MeetingScheduler.java)
 
 ### Sliding Window
 - Minimum Size Subarray Sum | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | [Solution](src/solutions/MinimumSizeSubarraySum.java)
