@@ -85,6 +85,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Partition Labels | [Problem](https://leetcode.com/problems/partition-labels) | [Solution](src/solutions/PartitionLabels.java)
 - Meeting Scheduler | [Problem](https://leetcode.com/problems/meeting-scheduler) | [Solution](src/solutions/MeetingScheduler.java)
 - Expressive Words | [Problem](https://leetcode.com/problems/expressive-words) | [Solution](src/solutions/ExpressiveWords.java)
+- Longest Word in Dictionary through Deleting | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Solution](src/solutions/LongestWordInDictionaryThroughDeleting.java)
 
 ### Sliding Window
 - Minimum Size Subarray Sum | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | [Solution](src/solutions/MinimumSizeSubarraySum.java)
