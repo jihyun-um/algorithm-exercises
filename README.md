@@ -86,6 +86,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Meeting Scheduler | [Problem](https://leetcode.com/problems/meeting-scheduler) | [Solution](src/solutions/MeetingScheduler.java)
 - Expressive Words | [Problem](https://leetcode.com/problems/expressive-words) | [Solution](src/solutions/ExpressiveWords.java)
 - Longest Word in Dictionary through Deleting | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Solution](src/solutions/LongestWordInDictionaryThroughDeleting.java)
+- Swap Adjacent in LR String | [Problem](https://leetcode.com/problems/swap-adjacent-in-lr-string) | [Solution](src/solutions/SwapAdjacentInString.java)
 
 ### Sliding Window
 - Minimum Size Subarray Sum | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | [Solution](src/solutions/MinimumSizeSubarraySum.java)
