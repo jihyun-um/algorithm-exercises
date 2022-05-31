@@ -39,6 +39,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Remove All Adjacent Duplicates In String | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Solution](src/solutions/RemoveDuplicatesInString.java)
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](src/solutions/BinaryTreeInorderTraversal.java)
 - Evaluate Reverse Polish Notation | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Solution](src/solutions/EvaluateReversePolishNotation.java)
+- Basic Calculator | [Problem](https://leetcode.com/problems/basic-calculator) | [Solution](src/solutions/BasicCalculator.java)
 
 ### Queue
 - Queue Using Stacks | [Problem](https://leetcode.com/problems/implement-queue-using-stacks) | [Solution](src/solutions/QueueUsingStacks.java)
