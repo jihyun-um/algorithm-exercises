@@ -7,31 +7,34 @@ class DecodeString {
     // Stack
     // O(n) time, O(n) space
     public String decodeString(String s) {
-        Stack<Integer> repeatCounts = new Stack<>();
-        Stack<String> storedStrings = new Stack<>();
-        storedStrings.push("");
-
-        int i = 0;
-        while (i < s.length()) {
-            char ch = s.charAt(i);
-            if (Character.isDigit(ch)) {
-                int start = i;
-                while (Character.isDigit(s.charAt(i + 1))) {
-                    i++;
+        int num = 0;
+        Stack<String> stack = new Stack<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (Character.isDigit(c)) {
+                num = num * 10 + (c - '0');
+            } else if (c == '[') {
+                stack.push(String.valueOf(num));
+                stack.push("[");
+                num = 0;
+            } else if (c == ']') {
+                String substring = "";
+                while (!stack.empty() && !"[".equals(stack.peek())) {
+                    substring = stack.pop() + substring;
                 }
-                repeatCounts.push(Integer.parseInt(s.substring(start, i + 1)));
-            } else if (ch == '[') {
-                storedStrings.push("");
-            } else if (ch == ']') {
-                String repeatStr = storedStrings.pop();
-                int repeatCount = repeatCounts.pop();
-                storedStrings.push(storedStrings.pop() + repeatStr.repeat(repeatCount));
+                stack.pop(); // pop '['
+                int repeatCount = Integer.parseInt(stack.pop());
+                String repeatedSubstring = substring.repeat(repeatCount);
+                stack.add(repeatedSubstring);
             } else {
-                storedStrings.push(storedStrings.pop() + ch);
+                stack.push(String.valueOf(c));
             }
-            i++;
         }
-        return storedStrings.pop();
+        String result = "";
+        while (!stack.empty()) {
+            result = stack.pop() + result;
+        }
+        return result;
     }
 
     // Test
