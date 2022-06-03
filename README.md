@@ -35,6 +35,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Min Stack | [Problem](https://leetcode.com/problems/min-stack) | [Solution](src/solutions/MinStack.java)
 - Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses) | [Solution](src/solutions/ValidParentheses.java)
 - Decode String | [Problem](https://leetcode.com/problems/decode-string) | [Solution](src/solutions/DecodeString.java)
+- Simplify Path | [Problem](https://leetcode.com/problems/simplify-path) | [Solution](src/solutions/SimplifyPath.java)
 - Longest Absolute File Path | [Problem](https://leetcode.com/problems/longest-absolute-file-path) | [Solution](src/solutions/LongestAbsoluteFilePath.java)
 - Remove All Adjacent Duplicates In String | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Solution](src/solutions/RemoveDuplicatesInString.java)
 - Binary Tree Inorder Traversal | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](src/solutions/BinaryTreeInorderTraversal.java)
