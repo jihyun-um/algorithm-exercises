@@ -100,6 +100,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 
 ### Prefix Sum
 - Product of the Last K Numbers | [Problem](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](src/solutions/ProductOfNumbers.java)
+- Substrings That Begin and End With the Same Letter | [Problem](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter) | [Solution](src/solutions/SubstringsWithSameLetter.java)
 
 ### Recursion
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value)
