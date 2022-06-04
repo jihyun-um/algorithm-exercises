@@ -98,6 +98,9 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Longest Substring Without Repeating Characters | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution](src/solutions/LongestSubstringWithoutRepeatingCharacters.java)
 - Sliding Window Maximum | [Problem](https://leetcode.com/problems/sliding-window-maximum) | [Solution](src/solutions/SlidingWindowMaximum.java)
 
+### Prefix Sum
+- Product of the Last K Numbers | [Problem](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](src/solutions/ProductOfNumbers.java)
+
 ### Recursion
 - Closest Binary Search Tree Value | [Problem](https://leetcode.com/problems/closest-binary-search-tree-value)
 - Subtree Of Another Tree | [Problem](https://leetcode.com/problems/subtree-of-another-tree) | [Solution](src/solutions/SubtreeOfAnotherTree.java)
