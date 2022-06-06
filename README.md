@@ -73,6 +73,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Meeting Rooms | [Problem](https://leetcode.com/problems/meeting-rooms) | [Solution](src/solutions/MeetingRooms.java)
 - Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals) | [Solution](src/solutions/MergeIntervals.java)
 - Group Anagrams | [Problem](https://leetcode.com/problems/group-anagrams) | [Solution](src/solutions/GroupAnagrams.java)
+- Minimum Time Difference | [Problem](https://leetcode.com/problems/minimum-time-difference) | [Solution](src/solutions/MinimumTimeDifference.java)
 
 ### Binary Search
 - Convert Sorted Array To BST | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Solution](src/solutions/ConvertSortedArrayToBST.java)
