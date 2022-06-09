@@ -145,6 +145,9 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Sudoku Solver | [Problem](https://leetcode.com/problems/sudoku-solver) | [Solution](src/solutions/SudokuSolver.java)
 - Expression Add Operators | [Problem](https://leetcode.com/problems/expression-add-operators) | [Solution](src/solutions/ExpressionAddOperators.java)
 
+### Topological Sort
+- Find All Possible Recipes from Given Supplies | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [Solution](src/solutions/FindAllPossibleRecipes.java)
+
 ### Bit Manipulation
 - Single Number | [Problem](https://leetcode.com/problems/single-number) | [Solution](src/solutions/SingleNumber.java)
 - Subsets | [Problem](https://leetcode.com/problems/subsets) | [Solution](src/solutions/Subsets.java)
