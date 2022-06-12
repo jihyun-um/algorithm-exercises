@@ -147,6 +147,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 
 ### Topological Sort
 - Course Schedule | [Problem](https://leetcode.com/problems/course-schedule) | [Solution](src/solutions/CourseSchedule.java)
+- Course Schedule II | [Problem](https://https://leetcode.com/problems/course-schedule-ii) | [Solution](src/solutions/CourseScheduleII.java)
 - Find All Possible Recipes from Given Supplies | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [Solution](src/solutions/FindAllPossibleRecipes.java)
 
 ### Bit Manipulation
