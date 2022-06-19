@@ -31,6 +31,7 @@ Algorithm exercises from LeetCode implemented in Java v11.
 - Number of Good Pairs | [Problem](https://leetcode.com/problems/number-of-good-pairs) | [Solution](src/solutions/NumberOfGoodPairs.java)
 - Logger Rate Limiter | [Problem](https://leetcode.com/problems/logger-rate-limiter) | [Solution](src/solutions/Logger.java)
 - Unique Number of Occurrences | [Problem](https://leetcode.com/problems/unique-number-of-occurrences) | [Solution](src/solutions/UniqueNumberOfOccurrences.java)
+- Snapshot Array | [Problem](https://leetcode.com/problems/snapshot-array) | [Solution](src/solutions/SnapshotArray.java)
 
 ### Stack
 - Min Stack | [Problem](https://leetcode.com/problems/min-stack) | [Solution](src/solutions/MinStack.java)
